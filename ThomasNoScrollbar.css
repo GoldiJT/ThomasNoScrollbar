@@ -214,7 +214,7 @@ html.theme-light .container__37e49 {
 #app-mount .children__9293f .status__2a4a6::after {
   content: attr(aria-label);
   margin-left: 8px;
-  font-size: 13px;
+  font-size: 11px;
   color: var(--text-normal);
 }
 #app-mount .children__9293f .status__2a4a6 svg {
@@ -2016,10 +2016,10 @@ body .container_a8e786,
 }
 #app-mount .search__97492.focused__97492 .public-DraftEditor-content {
   cursor: text;
-  font-size: 24px;
+  font-size: 22px;
 }
 #app-mount .search__97492.focused__97492 .public-DraftEditorPlaceholder-root {
-  font-size: 24px;
+  font-size: 22px;
 }
 #app-mount .search__97492.focused__97492 .icon__97492 {
   width: 56px;
@@ -2316,7 +2316,7 @@ body .container_a8e786,
 #app-mount .emojiPicker_c0e32c [class^=searchBar] [class^=input_],
 #app-mount .emojiPicker_c0e32c .container_fea832 [class^=input_],
 #app-mount .emojiPicker_c0e32c .container_a45028 [class^=input_] {
-  font-size: 14px;
+  font-size: 12px;
   height: 26px;
 }
 #app-mount .wrapper__8ef02 [class^=searchBar] [class^=iconLayout_],
@@ -2861,7 +2861,7 @@ body .container_a8e786,
   margin: 0;
   padding: 16px;
   border-bottom: 1px solid var(--border);
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1;
   font-weight: normal;
   color: var(--text-normal);
@@ -3956,7 +3956,7 @@ body .container_a8e786,
   background: transparent;
   padding: 10px;
   text-align: center;
-  font-size: 14px;
+  font-size: 12px;
 }
 #app-mount .ChannelDms-channelmembers-header .item-3XjbnG.selected-g-kMVV {
   background: rgb(var(--accent), 0.1);
@@ -4013,7 +4013,7 @@ body .container_a8e786,
   height: 18px;
 }
 #app-mount .ChannelDms-channelpopout-headerName {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .styledGuildsAsChannels-DNHtg_ #app-mount .guilds_c48ade {
